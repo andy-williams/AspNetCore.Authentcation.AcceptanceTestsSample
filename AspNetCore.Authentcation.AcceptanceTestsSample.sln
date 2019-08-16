@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Authentcation.AcceptanceTestsSample", "AspNetCore.Authentcation.AcceptanceTestsSample\AspNetCore.Authentcation.AcceptanceTestsSample.csproj", "{63596670-8F8D-4565-932C-1E7E6E74D5C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Authentcation.AcceptanceTestsSample.Tests", "AspNetCore.Authentcation.AcceptanceTestsSample.Tests\AspNetCore.Authentcation.AcceptanceTestsSample.Tests.csproj", "{55594DAB-1BD1-4F34-8534-696F6E1EF1CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63596670-8F8D-4565-932C-1E7E6E74D5C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63596670-8F8D-4565-932C-1E7E6E74D5C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63596670-8F8D-4565-932C-1E7E6E74D5C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63596670-8F8D-4565-932C-1E7E6E74D5C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55594DAB-1BD1-4F34-8534-696F6E1EF1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55594DAB-1BD1-4F34-8534-696F6E1EF1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55594DAB-1BD1-4F34-8534-696F6E1EF1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55594DAB-1BD1-4F34-8534-696F6E1EF1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F67CBF6-FEEA-4D1D-8E94-324F8295C27E}
+	EndGlobalSection
+EndGlobal
